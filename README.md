@@ -1,4 +1,4 @@
-# 🇮🇳 SchemeSetu
+# SchemeSetu
 
 ### Bilingual Government Scheme Eligibility Finder
 
